@@ -56,6 +56,9 @@ public:
     int getAmountOfCols(){
         return cols;
     }
+    double *retAr(){
+        return matr;
+    }
     void free(){
         delete matr;
         matr = nullptr;

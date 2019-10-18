@@ -4,7 +4,6 @@
 #include "matrix.h"
 #include "read_configs.h"
 #include "mpi_main.h"
-
 int main(int argc, char *argv[]) {
     configs_strct configs;
     read_constants(&configs, "../txt/configs.txt");
@@ -19,9 +18,8 @@ int main(int argc, char *argv[]) {
 
     read_matrix(mtrx, "../txt/matrix2.txt");
 
+//    std::cout << mtrx.getAmountOfRows() << " " << mtrx.getAmountOfCols();
     spread(mtrx, configs);
-
-
 
     return 0;
 }

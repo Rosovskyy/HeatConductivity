@@ -109,6 +109,7 @@ NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/main.cpp.o
 NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o
 NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o
 NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/build.make
+NewHeatConductivity: /usr/local/lib/libMagick++-7.Q16HDRI.so
 NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable NewHeatConductivity"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NewHeatConductivity.dir/link.txt --verbose=$(VERBOSE)

@@ -11,7 +11,31 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0356a6d5-266c-43ee-9b2f-992357053f82" name="Default Changelist" comment="" />
+    <list default="true" id="0356a6d5-266c-43ee-9b2f-992357053f82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/NewHeatConductivity" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/NewHeatConductivity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/NewHeatConductivity.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/NewHeatConductivity.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix.h" beforeDir="false" afterPath="$PROJECT_DIR$/matrix.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpi_main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mpi_main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpi_main.h" beforeDir="false" afterPath="$PROJECT_DIR$/mpi_main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/configs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/configs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/matrix2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/matrix2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/sc.py" beforeDir="false" afterPath="$PROJECT_DIR$/txt/sc.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +46,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SHQ32ML3xsT4hUyGVI1mxkvCDN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/usr/bin/mpirun" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,7 +85,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="NewHeatConductivity" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-np 3 ./NewHeatConductivity" WORKING_DIR="file://$PROJECT_DIR$/cmake-build-debug" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewHeatConductivity" TARGET_NAME="NewHeatConductivity" CONFIG_NAME="Debug" RUN_PATH="/usr/bin/mpirun">
+    <configuration name="NewHeatConductivity" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-np 5 ./NewHeatConductivity" WORKING_DIR="file://$PROJECT_DIR$/cmake-build-debug" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewHeatConductivity" TARGET_NAME="NewHeatConductivity" CONFIG_NAME="Debug" RUN_PATH="/usr/bin/mpirun">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -77,11 +105,27 @@
       <workItem from="1571226846222" duration="7459000" />
       <workItem from="1571245415550" duration="6031000" />
       <workItem from="1571343063258" duration="2798000" />
+      <workItem from="1571674986283" duration="594000" />
+      <workItem from="1571832530281" duration="13651000" />
+      <workItem from="1571933150152" duration="9119000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1571233456858">

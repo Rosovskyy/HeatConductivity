@@ -1,1 +1,1 @@
-/usr/bin/mpic++  -g   CMakeFiles/NewHeatConductivity.dir/main.cpp.o CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o  -o NewHeatConductivity 
+/usr/bin/mpic++  -g   CMakeFiles/NewHeatConductivity.dir/main.cpp.o CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o  -o NewHeatConductivity -Wl,-rpath,/usr/local/lib /usr/local/lib/libMagick++-7.Q16HDRI.so 
