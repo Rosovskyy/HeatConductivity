@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="NewHeatConductivity" targetName="NewHeatConductivity" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0356a6d5-266c-43ee-9b2f-992357053f82" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1SHQ32ML3xsT4hUyGVI1mxkvCDN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="NewHeatConductivity" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-np 3 ./NewHeatConductivity" WORKING_DIR="file://$PROJECT_DIR$/cmake-build-debug" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewHeatConductivity" TARGET_NAME="NewHeatConductivity" CONFIG_NAME="Debug" RUN_PATH="/usr/bin/mpirun">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0356a6d5-266c-43ee-9b2f-992357053f82" name="Default Changelist" comment="" />
+      <created>1571217838347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571217838347</updated>
+      <workItem from="1571217840220" duration="7198000" />
+      <workItem from="1571226846222" duration="7459000" />
+      <workItem from="1571245415550" duration="6031000" />
+      <workItem from="1571343063258" duration="2798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1571233456858">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1571233456858" />
+    <state x="1173" y="302" width="524" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1571217851170">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1173" y="302" width="524" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1571217851170" />
+    <state x="743" y="311" width="424" height="482" key="FileChooserDialogImpl" timestamp="1571228804396">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="482" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1571228804396" />
+    <state width="1874" height="328" key="GridCell.Tab.0.bottom" timestamp="1571234455968">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="328" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1571234455968" />
+    <state width="1874" height="328" key="GridCell.Tab.0.center" timestamp="1571234455968">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="328" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1571234455968" />
+    <state width="1874" height="328" key="GridCell.Tab.0.left" timestamp="1571234455967">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="328" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1571234455967" />
+    <state width="1874" height="328" key="GridCell.Tab.0.right" timestamp="1571234455968">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="328" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1571234455968" />
+  </component>
+</project>

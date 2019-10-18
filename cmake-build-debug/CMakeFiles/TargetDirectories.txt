@@ -1,0 +1,3 @@
+/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir
+/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,9 @@
+density=2.7
+capacity=0.92
+conductivity=2.37
+width=10
+height=10
+delta_x=1
+delta_y=1
+delta_t=0.1
+save_t=10

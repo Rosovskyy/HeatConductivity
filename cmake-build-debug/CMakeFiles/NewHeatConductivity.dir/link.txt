@@ -1,0 +1,1 @@
+/usr/bin/mpic++  -g   CMakeFiles/NewHeatConductivity.dir/main.cpp.o CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o  -o NewHeatConductivity 
