@@ -57,57 +57,57 @@ include CMakeFiles/NewHeatConductivity.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/NewHeatConductivity.dir/flags.make
 
-CMakeFiles/NewHeatConductivity.dir/main.cpp.o: CMakeFiles/NewHeatConductivity.dir/flags.make
-CMakeFiles/NewHeatConductivity.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/NewHeatConductivity.dir/main.cpp.o"
-	/usr/bin/mpic++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NewHeatConductivity.dir/main.cpp.o -c /home/arelav/Study/Lab/OS/NewHeatConductivity/main.cpp
+CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o: CMakeFiles/NewHeatConductivity.dir/flags.make
+CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o: ../sources/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o"
+	/usr/bin/mpic++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o -c /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/main.cpp
 
-CMakeFiles/NewHeatConductivity.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewHeatConductivity.dir/main.cpp.i"
-	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arelav/Study/Lab/OS/NewHeatConductivity/main.cpp > CMakeFiles/NewHeatConductivity.dir/main.cpp.i
+CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.i"
+	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/main.cpp > CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.i
 
-CMakeFiles/NewHeatConductivity.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewHeatConductivity.dir/main.cpp.s"
-	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arelav/Study/Lab/OS/NewHeatConductivity/main.cpp -o CMakeFiles/NewHeatConductivity.dir/main.cpp.s
+CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.s"
+	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/main.cpp -o CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.s
 
-CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o: CMakeFiles/NewHeatConductivity.dir/flags.make
-CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o: ../read_configs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o"
-	/usr/bin/mpic++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o -c /home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.cpp
+CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o: CMakeFiles/NewHeatConductivity.dir/flags.make
+CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o: ../sources/read_configs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o"
+	/usr/bin/mpic++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o -c /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/read_configs.cpp
 
-CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.i"
-	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.cpp > CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.i
+CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.i"
+	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/read_configs.cpp > CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.i
 
-CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.s"
-	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.cpp -o CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.s
+CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.s"
+	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/read_configs.cpp -o CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.s
 
-CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o: CMakeFiles/NewHeatConductivity.dir/flags.make
-CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o: ../mpi_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o"
-	/usr/bin/mpic++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o -c /home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.cpp
+CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o: CMakeFiles/NewHeatConductivity.dir/flags.make
+CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o: ../sources/mpi_main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o"
+	/usr/bin/mpic++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o -c /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/mpi_main.cpp
 
-CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.i"
-	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.cpp > CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.i
+CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.i"
+	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/mpi_main.cpp > CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.i
 
-CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.s"
-	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.cpp -o CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.s
+CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.s"
+	/usr/bin/mpic++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arelav/Study/Lab/OS/NewHeatConductivity/sources/mpi_main.cpp -o CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.s
 
 # Object files for target NewHeatConductivity
 NewHeatConductivity_OBJECTS = \
-"CMakeFiles/NewHeatConductivity.dir/main.cpp.o" \
-"CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o" \
-"CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o"
+"CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o" \
+"CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o" \
+"CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o"
 
 # External object files for target NewHeatConductivity
 NewHeatConductivity_EXTERNAL_OBJECTS =
 
-NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/main.cpp.o
-NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o
-NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o
+NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o
+NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o
+NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o
 NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/build.make
 NewHeatConductivity: /usr/local/lib/libMagick++-7.Q16HDRI.so
 NewHeatConductivity: CMakeFiles/NewHeatConductivity.dir/link.txt

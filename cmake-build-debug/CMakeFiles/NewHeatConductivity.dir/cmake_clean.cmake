@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/NewHeatConductivity.dir/main.cpp.o"
-  "CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o"
-  "CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o"
+  "CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o"
+  "CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o"
+  "CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o"
   "NewHeatConductivity"
   "NewHeatConductivity.pdb"
 )

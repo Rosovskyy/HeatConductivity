@@ -38,6 +38,7 @@
 					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent"/>
 					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include"/>
 					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include"/>
+					<Add directory="/home/arelav/Study/Lab/OS/NewHeatConductivity/headers"/>
 					<Add directory="/usr/local/include/ImageMagick-7"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
@@ -66,6 +67,7 @@
 					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent"/>
 					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include"/>
 					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include"/>
+					<Add directory="/home/arelav/Study/Lab/OS/NewHeatConductivity/headers"/>
 					<Add directory="/usr/local/include/ImageMagick-7"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
@@ -94,25 +96,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/function.h">
+		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/function.h">
 			<Option target="NewHeatConductivity"/>
 		</Unit>
-		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/main.cpp">
+		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/matrix.h">
 			<Option target="NewHeatConductivity"/>
 		</Unit>
-		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/matrix.h">
+		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/mpi_main.h">
 			<Option target="NewHeatConductivity"/>
 		</Unit>
-		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.cpp">
+		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/read_configs.h">
 			<Option target="NewHeatConductivity"/>
 		</Unit>
-		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.h">
+		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/sources/main.cpp">
 			<Option target="NewHeatConductivity"/>
 		</Unit>
-		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.cpp">
+		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/sources/mpi_main.cpp">
 			<Option target="NewHeatConductivity"/>
 		</Unit>
-		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.h">
+		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/sources/read_configs.cpp">
 			<Option target="NewHeatConductivity"/>
 		</Unit>
 		<Unit filename="/home/arelav/Study/Lab/OS/NewHeatConductivity/CMakeLists.txt">

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arelav/Study/Lab/OS/NewHeatConductivity/main.cpp" "/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/main.cpp.o"
-  "/home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.cpp" "/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o"
-  "/home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.cpp" "/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o"
+  "/home/arelav/Study/Lab/OS/NewHeatConductivity/sources/main.cpp" "/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o"
+  "/home/arelav/Study/Lab/OS/NewHeatConductivity/sources/mpi_main.cpp" "/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o"
+  "/home/arelav/Study/Lab/OS/NewHeatConductivity/sources/read_configs.cpp" "/home/arelav/Study/Lab/OS/NewHeatConductivity/cmake-build-debug/CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -16,6 +16,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent"
   "/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include"
   "/usr/lib/x86_64-linux-gnu/openmpi/include"
+  "../headers"
   "/usr/local/include/ImageMagick-7"
   )
 

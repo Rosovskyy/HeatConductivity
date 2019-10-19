@@ -123,86 +123,86 @@ NewHeatConductivity/fast:
 	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/build
 .PHONY : NewHeatConductivity/fast
 
-main.o: main.cpp.o
+sources/main.o: sources/main.cpp.o
 
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/main.cpp.s
-.PHONY : main.cpp.s
-
-mpi_main.o: mpi_main.cpp.o
-
-.PHONY : mpi_main.o
+.PHONY : sources/main.o
 
 # target to build an object file
-mpi_main.cpp.o:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.o
-.PHONY : mpi_main.cpp.o
+sources/main.cpp.o:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.o
+.PHONY : sources/main.cpp.o
 
-mpi_main.i: mpi_main.cpp.i
+sources/main.i: sources/main.cpp.i
 
-.PHONY : mpi_main.i
+.PHONY : sources/main.i
 
 # target to preprocess a source file
-mpi_main.cpp.i:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.i
-.PHONY : mpi_main.cpp.i
+sources/main.cpp.i:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.i
+.PHONY : sources/main.cpp.i
 
-mpi_main.s: mpi_main.cpp.s
+sources/main.s: sources/main.cpp.s
 
-.PHONY : mpi_main.s
+.PHONY : sources/main.s
 
 # target to generate assembly for a file
-mpi_main.cpp.s:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/mpi_main.cpp.s
-.PHONY : mpi_main.cpp.s
+sources/main.cpp.s:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/main.cpp.s
+.PHONY : sources/main.cpp.s
 
-read_configs.o: read_configs.cpp.o
+sources/mpi_main.o: sources/mpi_main.cpp.o
 
-.PHONY : read_configs.o
+.PHONY : sources/mpi_main.o
 
 # target to build an object file
-read_configs.cpp.o:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.o
-.PHONY : read_configs.cpp.o
+sources/mpi_main.cpp.o:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.o
+.PHONY : sources/mpi_main.cpp.o
 
-read_configs.i: read_configs.cpp.i
+sources/mpi_main.i: sources/mpi_main.cpp.i
 
-.PHONY : read_configs.i
+.PHONY : sources/mpi_main.i
 
 # target to preprocess a source file
-read_configs.cpp.i:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.i
-.PHONY : read_configs.cpp.i
+sources/mpi_main.cpp.i:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.i
+.PHONY : sources/mpi_main.cpp.i
 
-read_configs.s: read_configs.cpp.s
+sources/mpi_main.s: sources/mpi_main.cpp.s
 
-.PHONY : read_configs.s
+.PHONY : sources/mpi_main.s
 
 # target to generate assembly for a file
-read_configs.cpp.s:
-	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/read_configs.cpp.s
-.PHONY : read_configs.cpp.s
+sources/mpi_main.cpp.s:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/mpi_main.cpp.s
+.PHONY : sources/mpi_main.cpp.s
+
+sources/read_configs.o: sources/read_configs.cpp.o
+
+.PHONY : sources/read_configs.o
+
+# target to build an object file
+sources/read_configs.cpp.o:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.o
+.PHONY : sources/read_configs.cpp.o
+
+sources/read_configs.i: sources/read_configs.cpp.i
+
+.PHONY : sources/read_configs.i
+
+# target to preprocess a source file
+sources/read_configs.cpp.i:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.i
+.PHONY : sources/read_configs.cpp.i
+
+sources/read_configs.s: sources/read_configs.cpp.s
+
+.PHONY : sources/read_configs.s
+
+# target to generate assembly for a file
+sources/read_configs.cpp.s:
+	$(MAKE) -f CMakeFiles/NewHeatConductivity.dir/build.make CMakeFiles/NewHeatConductivity.dir/sources/read_configs.cpp.s
+.PHONY : sources/read_configs.cpp.s
 
 # Help Target
 help:
@@ -213,15 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... NewHeatConductivity"
 	@echo "... edit_cache"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... mpi_main.o"
-	@echo "... mpi_main.i"
-	@echo "... mpi_main.s"
-	@echo "... read_configs.o"
-	@echo "... read_configs.i"
-	@echo "... read_configs.s"
+	@echo "... sources/main.o"
+	@echo "... sources/main.i"
+	@echo "... sources/main.s"
+	@echo "... sources/mpi_main.o"
+	@echo "... sources/mpi_main.i"
+	@echo "... sources/mpi_main.s"
+	@echo "... sources/read_configs.o"
+	@echo "... sources/read_configs.i"
+	@echo "... sources/read_configs.s"
 .PHONY : help
 
 

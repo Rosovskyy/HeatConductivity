@@ -6,31 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/arelav/Study/Lab/OS/NewHeatConductivity/function.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/function.h
 matrix.h
-/home/arelav/Study/Lab/OS/NewHeatConductivity/matrix.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/matrix.h
 read_configs.h
-/home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/read_configs.h
 
-/home/arelav/Study/Lab/OS/NewHeatConductivity/matrix.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/matrix.h
 algorithm
 -
 
-/home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.cpp
-mpi.h
--
-mpi_main.h
-/home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.h
-function.h
-/home/arelav/Study/Lab/OS/NewHeatConductivity/function.h
-Magick++.h
--
-
-/home/arelav/Study/Lab/OS/NewHeatConductivity/mpi_main.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/mpi_main.h
 read_configs.h
-/home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/read_configs.h
 matrix.h
-/home/arelav/Study/Lab/OS/NewHeatConductivity/matrix.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/matrix.h
 iostream
 -
 fstream
@@ -40,9 +30,19 @@ vector
 functional
 -
 
-/home/arelav/Study/Lab/OS/NewHeatConductivity/read_configs.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/read_configs.h
 matrix.h
-/home/arelav/Study/Lab/OS/NewHeatConductivity/matrix.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/matrix.h
+
+/home/arelav/Study/Lab/OS/NewHeatConductivity/sources/mpi_main.cpp
+mpi.h
+-
+../headers/mpi_main.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/mpi_main.h
+../headers/function.h
+/home/arelav/Study/Lab/OS/NewHeatConductivity/headers/function.h
+Magick++.h
+-
 
 /usr/lib/x86_64-linux-gnu/openmpi/include/mpi.h
 stddef.h

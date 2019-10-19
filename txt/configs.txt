@@ -6,4 +6,4 @@ height=100
 delta_x=1
 delta_y=1
 delta_t=0.1
-save_t=10
+save_t=5
